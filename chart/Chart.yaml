@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: latest
+description: Helm Chart for the keptn-contrib dynatrace-service
+name: dynatrace-service
+type: application
+version: latest
